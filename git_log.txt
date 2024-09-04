@@ -1,0 +1,72 @@
+commit 78d2a71faa218b80f0b67fd1ed0997e6afd003a5
+Merge: eb794f7 542113a
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 20:03:54 2024 -0700
+
+    took div from merge forgot to add it to commit
+
+commit 542113ac964ca0d27de9117fac0d51aa48b4a831
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 20:00:08 2024 -0700
+
+    added favorite games to index.html
+
+commit eb794f72835157a281eb63a57dc268fbe30f4268
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 19:59:14 2024 -0700
+
+    added favorite foods to index.html
+
+commit f901451d0511edfc14027188c9a62c5c8ff10c29
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 19:57:05 2024 -0700
+
+    finished readme
+
+commit 761aa3e73f6dd1c93282b22e245779330366d226
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 19:49:58 2024 -0700
+
+    changes to readme
+
+commit 624c1f090c42bcd2ef81bb442519795a5609b017
+Merge: dfd3ae6 c23d5ba
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 19:48:51 2024 -0700
+
+    Merge branch 'main' of https://github.com/Raijuk1/CS3338-second-project
+    
+    to combine changes
+
+commit dfd3ae6d6acbcf66f56a24747257418fe74ef5ec
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 17:27:15 2024 -0700
+
+    created readme file
+
+commit c23d5bad63c4a96eac449b06f55d0d8636fc1f43
+Merge: 1d2bfc0 6efc2fd
+Author: Gabriel Foreman <108314061+Raijuk1@users.noreply.github.com>
+Date:   Tue Sep 3 17:25:21 2024 -0700
+
+    Merge pull request #1 from Raijuk1/info-fill
+    
+    Info fill
+
+commit 6efc2fdba3bc8158b43458d3cbbac51290fddf6a
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 17:21:24 2024 -0700
+
+    filled in the blanks in index.html change 2
+
+commit 03f48de688301ac87f941a65f5a68f02b43f431d
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 09:52:19 2024 -0700
+
+    filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
