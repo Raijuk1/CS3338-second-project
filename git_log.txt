@@ -1,3 +1,55 @@
+commit 410907258e7f4ef69b2027f93fe51a771c270eb0
+Merge: 5cc3692 a5b71cb
+Author: Gabriel Foreman <108314061+Raijuk1@users.noreply.github.com>
+Date:   Wed Sep 4 15:55:54 2024 -0700
+
+    Merge pull request #2 from Raijuk1/feature-about-me
+    
+    Feature about me
+
+commit a5b71cba0aa78229c8fc7e30d49c4b3ead531ffe
+Merge: cd420f9 5cc3692
+Author: Gabriel Foreman <108314061+Raijuk1@users.noreply.github.com>
+Date:   Wed Sep 4 15:52:18 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit cd420f99633a1b795e22effc7c60c2309b6e6af2
+Author: Gabriel Foreman <gabe.foreman2143@gmail.com>
+Date:   Wed Sep 4 15:43:13 2024 -0700
+
+    Update index.html
+    
+    Added my information to index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 5cc3692e1995fe9231158e07084f69e532dfff39
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 20:07:57 2024 -0700
+
+    forgot to save the readme file before pushing changes
+
+commit ea8b6c214fccdac9d923d94ff1ddb7da4cc4d726
+Author: foreman, gabriel <gabe.foreman2143@gmail.com>
+Date:   Tue Sep 3 20:05:53 2024 -0700
+
+    added git_log.txt and repo-location.txt and made some changes to the readme
+
 commit 78d2a71faa218b80f0b67fd1ed0997e6afd003a5
 Merge: eb794f7 542113a
 Author: foreman, gabriel <gabe.foreman2143@gmail.com>
@@ -64,6 +116,18 @@ Author: foreman, gabriel <gabe.foreman2143@gmail.com>
 Date:   Tue Sep 3 09:52:19 2024 -0700
 
     filled in the blanks in index.html
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
 
 commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
 Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
